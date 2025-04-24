@@ -9,5 +9,11 @@ public class Arithmatic{
 
         int difference = num1 - num2;
         System.out.println("The difference between " + num1 + " and " + num2 + " is: " + difference);
+
+        int mul = num1 * num2;
+        System.out.println("The multiflication of " + num1 + " and " + num2 + " is: " + mul);
+
+        int div = num1 / num2;
+        System.out.println("The division " + num1 + " and " + num2 + " is: " + div);
     }
 }
